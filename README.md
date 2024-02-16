@@ -2,7 +2,9 @@
 
 El diseño de esta web está inspirado en un proyecto de la comunidad realizado en Figma. El desarrollo de esta Landing Page se realizó completamente con Python puro utilizando el Framework Reflex.
 
-![Demo Pagina Web](/img/petzen.gif)
+[Ver web en el navegador](https://python-static-web.vercel.app/)
+
+![Demo Página Web](/img/petzen.gif)
 
 #### Diseño (Figma)
 
